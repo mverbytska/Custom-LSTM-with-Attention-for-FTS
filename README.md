@@ -8,8 +8,13 @@
 ![Stock Close Prices with Moving Averages](https://github.com/mverbytska/Custom-LSTM-with-Attention-for-FTS/blob/main/docs/moving_avgs.svg)
 ![Daily Returns of Amazon Stocks](https://github.com/mverbytska/Custom-LSTM-with-Attention-for-FTS/blob/main/docs/daily_return.svg)
 
+* To interact with the plots and obtain more insights from them, local code execution is needed
+
+* The project can be run using a typical CPU in Google Colab 
+
 #### Main used tools: 
 Numpy, Plotly, seaborn, TensorFlow, Keras, Sklearn
+
 
 #### [View the final presentation](https://www.canva.com/design/DAGHFXqkpqU/yyPqbUtHY0WfAcqz7WjSLg/view?utm_content=DAGHFXqkpqU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 

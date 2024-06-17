@@ -1,5 +1,5 @@
 # Custom LSTM and LSTM with Attention layer models building for Financial Time Series Forecasting
-## An experimental project conducted during the Research Conduction course at the National University of "Kyiv-Mohyla Academy", 2023/2024 academic year
+## An experimental project created during the Research Conduction course at the National University of "Kyiv-Mohyla Academy", 2023/2024 academic year
 ### Inspired by the 2018 paper "A Comparison of LSTMs And Attention Mechanisms for Forecasting Financial Time Series" by S.E. Yi, A. Viscardi, and T. Hollis
 #### The main idea was to build custom basic LSTM and LSTM with the Attention layer models and see whether the Attention mechanism helps to improve the prediction ability for dealing with financial time series data
 
